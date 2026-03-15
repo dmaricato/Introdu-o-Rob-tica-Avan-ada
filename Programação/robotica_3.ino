@@ -1,3 +1,5 @@
+// Arduino Nano foi utilizado
+
 // motor esquerdo
 int velMotorEsq = 3; // D3 PWM
 int motorEsqFrente = 5; // D5
